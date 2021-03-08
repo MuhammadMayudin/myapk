@@ -1,7 +1,7 @@
 {
   "versionName": 1.2,
   "versionCode": "2",
-  "url": "https://raw.githubusercontent.com/mhmdmydn/DaftarKoleksiAplikasi/main/AppInfoX.apk",
+  "url": "https://github.com/mhmdmydn/DaftarKoleksiAplikasi/blob/main/AppInfoX.apk?raw=true",
   "release": [
     "- New UI",
     "- Fixed Crash Activity",
